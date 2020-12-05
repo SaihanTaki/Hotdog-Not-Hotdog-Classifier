@@ -1,8 +1,14 @@
 # **Hotdog Not Hotdog Classifier**
 
-This is a web app inspired by the Jian Yang's SeaFood app from the TV show Silicon Valley. If you didn't watch this show just go to the link mentioned under to see how it works.
+This is a web app inspired by the Jian Yang's SeaFood app from the TV show Silicon Valley. If you didn't watch this show just go to the link mentioned under to see what this is all about.
 
 <a href = "https://youtu.be/pqTntG1RXSY">Click Here : Hotdog or not Hotdog</a>
+
+# **Table of Contents**
+
+-   [Technologies](#Technologies)
+-   [Screen Capture](#Screen-Capture)
+-   [How to Use](#How-to-Use)
 
 # **Technologies**
 
