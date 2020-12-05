@@ -20,9 +20,10 @@ This is a web app inspired by the Jian Yang's SeaFood app from the TV show Silic
 
 # **How to Use**
 
--   step-1-- Clone the repository
--   step-2-- Create a virtual environment
--   step-3-- cd to the repository directory (where you cloned the repository)
--   step-4-- Activate the virtual environment
--   step-5-- Run: **pip install -r requirements.txt** in your shell
--   step-6-- Run: **flask run** in your shell
+-   step-1-- Create a project directory in your local machine
+-   step-2-- Clone the repository in the project directory
+-   step-3-- Create a virtual environment
+-   step-4-- cd to the project directory
+-   step-5-- Activate the virtual environment
+-   step-6-- Run: **pip install -r requirements.txt** in your shell
+-   step-7-- Run: **flask run** in your shell
