@@ -1,1 +1,5 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
+Data/train/hotdog/*.jpg filter=lfs diff=lfs merge=lfs -text
+Data/train/nothotdog/*.jpg filter=lfs diff=lfs merge=lfs -text
+Data/test/hotdog/*.jpg filter=lfs diff=lfs merge=lfs -text
+Data/test/nothotdog/*.jpg filter=lfs diff=lfs merge=lfs -text
