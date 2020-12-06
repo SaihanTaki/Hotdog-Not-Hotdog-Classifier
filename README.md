@@ -8,6 +8,7 @@ This is a web app inspired by the Jian Yang's SeaFood app from the TV show Silic
 
 -   [Technologies](#Technologies)
 -   [Screen Capture](#Screen-Capture)
+-   [Model Architecture](#Model-Architecture)
 -   [How to Use](#How-to-Use)
 
 # **Technologies**
@@ -22,6 +23,11 @@ This is a web app inspired by the Jian Yang's SeaFood app from the TV show Silic
 # **Screen Capture**
 
 <img src="static/app.gif" width="450" height="600" />
+<br>
+
+# **Model Architecture**
+
+<img src="static/model_architecture.png" width="450" height="450" />
 <br>
 
 # **How to Use**
