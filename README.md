@@ -35,7 +35,7 @@ This is a web app inspired by the Jian Yang's SeaFood app from the TV show Silic
 
 -   step-1-- Create a project directory in your local machine
 -   step-2-- cd to the project directory
--   step-3-- Run <p style: "background: black; color: white;">git clone https://github.com/SaihanTaki/Hotdog-Not-Hotdog-Classifier.git</p> in your shell to clone the repo or simply download the zip file
+-   step-3-- Run `git clone https://github.com/SaihanTaki/Hotdog-Not-Hotdog-Classifier.git` in your shell to clone the repo or simply download the zip file
 -   step-4-- Create a virtual environment
 -   step-5-- Activate the virtual environment
 -   step-6-- Run `cd Hotdog-Not-Hotdog-Classifier` in your shell
