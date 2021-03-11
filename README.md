@@ -23,21 +23,30 @@ This is a web app inspired by the Jian Yang's SeaFood app from the TV show Silic
 
 # **Screen Capture**
 
-<img src="static/app.gif" width="450" />
+<img src="static/app.gif" width="400"/>
 <br>
 
 # **Model Architecture**
 
-<img src="static/model_architecture.png" width="450" height="450" />
+<img src="static/model_architecture.png" width="400"/>
 <br>
 
 # **How to run this app**
 
--   step-1-- Create a project directory in your local machine
--   step-2-- cd to the project directory
--   step-3-- Run `git clone https://github.com/SaihanTaki/Hotdog-Not-Hotdog-Classifier.git` in your shell to clone the repo or simply download the zip file
--   step-4-- Create a virtual environment
--   step-5-- Activate the virtual environment
--   step-6-- Run `cd Hotdog-Not-Hotdog-Classifier` in your shell
--   step-7-- Run `pip install -r requirements.txt` in your shell
--   step-8-- Run `flask run` or `python app.py` in your shell
+-   Create a project directory in your local machine
+-   cd to the project directory
+-   Run in your shell to clone the repo or simply download the zip file
+
+```
+$ git clone https://github.com/SaihanTaki/Hotdog-Not-Hotdog-Classifier.git
+$ cd Hotdog-Not-Hotdog-Classifier
+```
+
+-   Create a virtual environment
+-   Activate the virtual environment
+-   Run these commands in your shell
+
+```
+$ pip install -r requirements.txt
+$ flask run | python app.py
+```
